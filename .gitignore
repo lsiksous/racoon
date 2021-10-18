@@ -1,0 +1,16 @@
+build/
+dist/
+*.egg-info/ 
+
+# Jupyter
+.ipynb_checkpoints
+
+# pyenv
+.python-version
+
+# Environment
+.env
+.venv
+env/
+venv/
+ENV/
